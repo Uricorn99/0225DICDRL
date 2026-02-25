@@ -2,6 +2,10 @@
 
 A sleek, premium, and minimalist personal portfolio webpage built using core web technologies. Inspired by modern design templates, it offers a visually appealing and responsive user experience.
 
+**[Live Demo](https://uricorn99.github.io/0225DICDRL/)**
+
+![Homepage Snapshot](./snapshot.png)
+
 ## ✨ Features
 
 - **Modern Glassmorphism Navbar**: Clean, sticky navigation with smooth hover effects.
@@ -18,7 +22,7 @@ A sleek, premium, and minimalist personal portfolio webpage built using core web
 
 ## 🚀 Getting Started
 
-To view the portfolio:
+To view the portfolio locally:
 
 1. Clone this repository to your local machine:
    ```bash
@@ -26,7 +30,5 @@ To view the portfolio:
    ```
 2. Navigate to the project directory.
 3. Open `index.html` in any modern web browser.
-
-![Screenshot Context](https://via.placeholder.com/800x400.png?text=Rueiyu+Personal+Portfolio)
 
 *Created by an AI coding assistant.*
